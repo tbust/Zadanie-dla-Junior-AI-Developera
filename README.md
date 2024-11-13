@@ -1,0 +1,1 @@
+# Zadanie-dla-Junior-AI-Developera
