@@ -42,9 +42,9 @@ Przygotuj artykuł w formacie tekstowym .txt. Możesz użyć dowolnego edytora t
 ### 4. Uruchamianie aplikacji w Jupyter Notebooku
 Aby uruchomić aplikację, otwórz Jupyter Notebook i wykonaj następujące kroki:
 
-Otwórz nowy notebook lub załaduj istniejący plik .ipynb.
-Skopiuj kod aplikacji (zawierający funkcje do wczytywania artykułu, generowania HTML i zapisywania do pliku) do komórek notebooka.
-Upewnij się, że zmienna file_path wskazuje na prawidłową lokalizację pliku artykułu na Twoim systemie.
-Uruchom komórki kodu.
+1. Otwórz nowy notebook lub załaduj istniejący plik .ipynb.
+2. Skopiuj kod aplikacji (zawierający funkcje do wczytywania artykułu, generowania HTML i zapisywania do pliku) do komórek notebooka.
+3. Upewnij się, że zmienna file_path wskazuje na prawidłową lokalizację pliku artykułu na Twoim systemie.
+4. Uruchom komórki kodu.
 ### 5. Rezultat
 Po uruchomieniu aplikacji, wygenerowany plik HTML zostanie zapisany w tym samym katalogu, w którym znajduje się notebook, pod nazwą artykul.html. Możesz go otworzyć w przeglądarce, aby zobaczyć wynik.
