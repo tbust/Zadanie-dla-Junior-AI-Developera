@@ -39,12 +39,12 @@ openai.api_key = 'wstaw_swoj_klucz_API_tutaj'
 ### 3. Przygotowanie artykułu
 Przygotuj artykuł w formacie tekstowym .txt. Możesz użyć dowolnego edytora tekstu do stworzenia tego pliku. Pamiętaj, aby plik był zapisany w formacie UTF-8, aby uniknąć problemów z kodowaniem.
 
-4. Uruchamianie aplikacji w Jupyter Notebooku
+### 4. Uruchamianie aplikacji w Jupyter Notebooku
 Aby uruchomić aplikację, otwórz Jupyter Notebook i wykonaj następujące kroki:
 
 Otwórz nowy notebook lub załaduj istniejący plik .ipynb.
 Skopiuj kod aplikacji (zawierający funkcje do wczytywania artykułu, generowania HTML i zapisywania do pliku) do komórek notebooka.
 Upewnij się, że zmienna file_path wskazuje na prawidłową lokalizację pliku artykułu na Twoim systemie.
 Uruchom komórki kodu.
-5. Rezultat
+### 5. Rezultat
 Po uruchomieniu aplikacji, wygenerowany plik HTML zostanie zapisany w tym samym katalogu, w którym znajduje się notebook, pod nazwą artykul.html. Możesz go otworzyć w przeglądarce, aby zobaczyć wynik.
