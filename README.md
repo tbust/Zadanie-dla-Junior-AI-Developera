@@ -25,6 +25,7 @@ Upewnij się, że masz zainstalowaną bibliotekę `openai`. Możesz to zrobić z
 
 ```bash
 pip install openai
+```bash
 
 ### 2. Pobranie klucza API OpenAI
 Aby móc korzystać z OpenAI API, musisz posiadać klucz API. Zarejestruj się na stronie OpenAI i wygeneruj klucz API w sekcji API Keys.
