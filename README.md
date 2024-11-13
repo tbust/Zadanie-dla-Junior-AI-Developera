@@ -25,7 +25,7 @@ Upewnij się, że masz zainstalowaną bibliotekę `openai`. Możesz to zrobić z
 
 ```bash
 pip install openai
-```bash
+```
 
 ### 2. Pobranie klucza API OpenAI
 Aby móc korzystać z OpenAI API, musisz posiadać klucz API. Zarejestruj się na stronie OpenAI i wygeneruj klucz API w sekcji API Keys.
@@ -34,6 +34,7 @@ Po uzyskaniu klucza API, wklej go w odpowiednie miejsce w skrypcie:
 
 ```bash
 openai.api_key = 'wstaw_swoj_klucz_API_tutaj'
+```
 
 ### 3. Przygotowanie artykułu
 Przygotuj artykuł w formacie tekstowym .txt. Możesz użyć dowolnego edytora tekstu do stworzenia tego pliku. Pamiętaj, aby plik był zapisany w formacie UTF-8, aby uniknąć problemów z kodowaniem.
